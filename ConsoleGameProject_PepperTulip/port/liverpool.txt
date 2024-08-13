@@ -1,0 +1,9 @@
+¸®¹öÇ®
+1
+5
+-3
+53
+cargo\10tea.txt
+cargo\8perfume.txt
+cargo\4ceramic.txt
+cargo\9suger.txt

@@ -1,0 +1,9 @@
+Á¦³ë¹Ù
+0
+4
+8
+44
+cargo\7pepper.txt
+cargo\3carpet.txt
+cargo\4ceramic.txt
+cargo\10tea.txt

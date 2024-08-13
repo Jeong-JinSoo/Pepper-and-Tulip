@@ -1,0 +1,9 @@
+알렉산드리아
+0
+8
+29
+31
+cargo\7pepper.txt
+cargo\9suger.txt
+cargo\3carpet.txt
+cargo\4ceramic.txt

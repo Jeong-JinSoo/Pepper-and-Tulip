@@ -1,0 +1,9 @@
+알제
+0
+8
+3
+36
+cargo\5Dye.txt
+cargo\6glassDish.txt
+cargo\9suger.txt
+cargo\3carpet.txt

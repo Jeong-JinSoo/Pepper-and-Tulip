@@ -1,0 +1,9 @@
+마르세유
+0
+6
+5
+43
+cargo\12wine.txt
+cargo\6glassDish.txt
+cargo\8perfume.txt
+cargo\9suger.txt

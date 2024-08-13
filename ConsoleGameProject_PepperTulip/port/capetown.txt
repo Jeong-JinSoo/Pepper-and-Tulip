@@ -1,0 +1,9 @@
+케이프 타운
+3
+0
+18
+33
+cargo\9suger.txt
+cargo\3carpet.txt
+cargo\6glassDish.txt
+cargo\8perfume.txt

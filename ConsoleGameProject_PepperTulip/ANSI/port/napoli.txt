@@ -1,0 +1,9 @@
+³ªÆú¸®
+0
+2
+14
+40
+cargo\7pepper.txt
+cargo\8perfume.txt
+cargo\10tea.txt
+cargo\12wine.txt

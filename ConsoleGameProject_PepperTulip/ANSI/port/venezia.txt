@@ -1,0 +1,9 @@
+베네치아
+0
+3
+12
+45
+cargo\7pepper.txt
+cargo\6glassDish.txt
+cargo\5Dye.txt
+cargo\10tea.txt

@@ -1,0 +1,9 @@
+Æ¢´Ï½º
+0
+8
+10
+36
+cargo\3carpet.txt
+cargo\5Dye.txt
+cargo\10tea.txt
+cargo\7pepper.txt

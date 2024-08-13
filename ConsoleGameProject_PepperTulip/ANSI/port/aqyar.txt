@@ -1,0 +1,9 @@
+아크야르
+0
+8
+33
+44
+cargo\10tea.txt
+cargo\8perfume.txt
+cargo\5Dye.txt
+cargo\12wine.txt

@@ -1,0 +1,9 @@
+¹ß·»½Ã¾Æ
+0
+1
+0
+39
+cargo\8perfume.txt
+cargo\9suger.txt
+cargo\7pepper.txt
+cargo\3carpet.txt

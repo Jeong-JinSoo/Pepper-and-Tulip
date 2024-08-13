@@ -1,0 +1,9 @@
+리스본
+1
+0
+-9
+38
+cargo\3carpet.txt
+cargo\4ceramic.txt
+cargo\5Dye.txt
+cargo\6glassDish.txt

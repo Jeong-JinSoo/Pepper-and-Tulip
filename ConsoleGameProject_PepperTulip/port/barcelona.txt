@@ -1,0 +1,9 @@
+¹Ù¸£¼¿·Î³ª
+0
+1
+2
+41
+cargo\5Dye.txt
+cargo\10tea.txt
+cargo\12wine.txt
+cargo\6glassDish.txt
